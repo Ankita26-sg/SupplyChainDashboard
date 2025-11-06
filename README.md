@@ -42,7 +42,7 @@ pip freeze > requirements.txt
 ### 3️⃣ Run the Streamlit Dashboard:
 streamlit run Dashboard.py
 
-## 📂 Project Structure
+## 📂 Project Structure 
 SupplyChainDashboard/
 │
 ├── Dashboard.py                   # Main Streamlit dashboard application
