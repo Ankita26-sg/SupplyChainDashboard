@@ -45,7 +45,9 @@ pip install -r requirements.txt
 pip freeze > requirements.txt
 ```
 ### 3️⃣ Run the Streamlit Dashboard:
+```bash
 streamlit run Dashboard.py
+```
 
 ## 📂 Project Structure 
 SupplyChainDashboard/
@@ -72,9 +74,8 @@ Name: Ankita Singh
 University: MBS Education
 Course: Advanced Business Statistics
 Year: 2025
-
 Feel free to reach out for academic collaboration.
 
-##📝 License
+## 📝 License
 This project is for educational and academic use only.
 Not intended for commercial use
