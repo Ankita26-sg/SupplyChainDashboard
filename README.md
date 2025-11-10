@@ -35,10 +35,15 @@ It analyzes retail supply chain performance and provides insights into revenue, 
 ```bash
 git clone https://github.com/Ankita26-sg/SupplyChainDashboard.git
 cd SupplyChainDashboard
+```
 ### 2️⃣ Install Required Libraries:
+```bash
 pip install -r requirements.txt
+```
 ### If you ever need to regenerate the requirements file:
+```bash
 pip freeze > requirements.txt
+```
 ### 3️⃣ Run the Streamlit Dashboard:
 streamlit run Dashboard.py
 
